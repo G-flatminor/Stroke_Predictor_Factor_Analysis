@@ -40,3 +40,22 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 |  | Urban | 2596 | 50.80% |
 | Stroke | Yes | 249 | 4.87% |
 |  | No | 4861 | 95.13% |
+
+## Categorical variable responses (details)
+
+### Hypertension:
++ Chances of hyptertension are increasing over age groups for both male and female (except for male at 81-90)
++ In each group, the ratio seems different between male and female
+![hypertension](https://user-images.githubusercontent.com/46631208/111082236-90635580-84dd-11eb-9510-5a259a18d095.png)
+
+### Heart disease:
++ Chances of heart disease start increasing from 40s and keep increasing for both gender
++ Male ratio is higher in all age groups
+![heart_disease](https://user-images.githubusercontent.com/46631208/111082275-c7d20200-84dd-11eb-97cd-ea4a453111d0.png)
+
+### Stroke:
++ Chances of stroke start increasing from 40s and keeps increasing
++ Male chance is higher for all age groups but 30s
+![stroke](https://user-images.githubusercontent.com/46631208/111082340-1d0e1380-84de-11eb-8dc0-3bf27010cf46.png)
+
+
