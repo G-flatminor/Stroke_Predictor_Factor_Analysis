@@ -26,4 +26,15 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 ![AgeDistribution](C:\Users\kojis\Desktop\work\Stroke_project\age_distribution.png)
 
 
+## Categorical variable responses
+
+| item | Answer | Response | Ratio |
+| ---- | ------ | -------- | ----- |
+| Hypertension | Yes | 498 | 9.75% |
+|  | No | 4612 | 90.25% |
+| Heart disease | Yes | 276 | 5.40% |
+|  | No | 4834 | 94.60% |
+
+
+
 
