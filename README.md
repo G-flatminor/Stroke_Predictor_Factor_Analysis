@@ -1,4 +1,4 @@
-# Stroke_Predictor_Factor_Analysis
+# Analysis_of_Stroke_Predicting_Factors
 Analyze determining factors which increase risk of stroke
 
 ## Data
@@ -10,9 +10,15 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 + age
 + hypertension (yes or no)
 + heart disease (yes or no)
-+ ever married (
-+ work type
-+ residence type
++ ever married (true or false)
++ work type (private, self-employed, other)
++ residence type (rural or urban)
 + average glucose level
 + bmi
-+ stroke
++ stroke (yes or no)
+
+## Analysis_Sample
+
+
+
+
