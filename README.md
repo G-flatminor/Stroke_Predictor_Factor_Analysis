@@ -23,7 +23,7 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 + Unknown 1
 
 ### Age distribution
-![AgeDistribution](C:/Users/kojis/Desktop/work/Stroke_project/age_distribution.png)
+![age_distribution](https://user-images.githubusercontent.com/46631208/111081669-cfdc7280-84da-11eb-81d3-3dae1dec07d3.png)
 
 
 ## Categorical variable responses
