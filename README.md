@@ -18,7 +18,12 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 + stroke (yes or no)
 
 ## Analysis_Sample
++ Male    2994  (59.60 %, 0-82 yrs old)
++ Female  2115  (41.40 %, 0-82 yrs old)
++ Unknown 1
 
+### Age distribution
+![AgeDistribution](C:\Users\kojis\Desktop\work\Stroke_project\age_distribution.png)
 
 
 
