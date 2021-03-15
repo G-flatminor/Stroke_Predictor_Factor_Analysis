@@ -83,6 +83,7 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 ## Correlations
 
 |       | Age  |  Hypertension  |  Heart Disease  |  Ave. Glucose Level  |  BMI  |  Stroke  |
+| ----- | ---- | -------------- | --------------- | -------------------- | ----- | -------- |
 | Age | 1.000 | 0.276 | 0.264 | 0.238 | 0.333 | 0.245 |
 | Hypertension |  | 1.000 | 0.108 | 0.174 | 0.168 | 0.128 |
 | Heart Disease |
