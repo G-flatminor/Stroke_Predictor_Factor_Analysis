@@ -1,7 +1,7 @@
 # Analysis_of_Stroke_Predicting_Factors
 Analyze determining factors which increase risk of stroke
 
-## Data
+## DATA
 
 Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
@@ -28,7 +28,7 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 
 ## Categorical variable responses
 
-| item | Answer | Response | Ratio |
+| Item | Answer | Response | Ratio |
 | ---- | ------ | -------- | ----- |
 | Hypertension | Yes | 498 | 9.75% |
 |   | No | 4612 | 90.25% |
@@ -78,7 +78,17 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 
 ![glucose_level](https://user-images.githubusercontent.com/46631208/111082503-103def80-84df-11eb-897e-b925c11a58b7.png)
 
+## ANALYSIS
 
+## Correlations
+
+|       | Age  |  Hypertension  |  Heart Disease  |  Ave. Glucose Level  |  BMI  |  Stroke  |
+| Age | 1.000 | 0.276 | 0.264 | 0.238 | 0.333 | 0.245 |
+| Hypertension |  | 1.000 | 0.108 | 0.174 | 0.168 | 0.128 |
+| Heart Disease |
+| Ave. Glucose Level ||
+| BMI |
+| Stroke |
 
 
 
