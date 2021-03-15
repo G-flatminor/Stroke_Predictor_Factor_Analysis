@@ -63,7 +63,7 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 
 ## Numerical variables summary by age and gender
 
-###BMI
+### BMI
 + the age group transitions seem similar between male and female
 + BMI average for both gender increases towards 30/40s
 + It declines from 60s
@@ -72,7 +72,7 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 ![BMI](https://user-images.githubusercontent.com/46631208/111082462-ce14ae00-84de-11eb-9a24-fe8113d188ab.png)
 
 
-###Glucose level
+### Glucose level
 + Both male and female constantly increases the glucose level from 0-10 years of age to 81-90 years of age
 + In each age group, male average is higher than female average
 
