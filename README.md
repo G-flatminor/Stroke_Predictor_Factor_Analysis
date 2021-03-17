@@ -1,4 +1,4 @@
-# Analysis_of_Stroke_Predicting_Factors
+# ANALYSIS OF STROKE PREDICTING FACTORS
 Analyze determining factors which increase risk of stroke
 
 ## DATA
