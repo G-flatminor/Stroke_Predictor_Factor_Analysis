@@ -5,17 +5,17 @@ Analyze determining factors which increase risk of stroke
 
 Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
-+ id
-+ gender (male or female)
-+ age
-+ hypertension (yes or no)
-+ heart disease (yes or no)
-+ ever married (true or false)
-+ work type (private, self-employed, other)
-+ residence type (rural or urban)
-+ average glucose level
-+ bmi
-+ stroke (yes or no)
++ ID
++ Gender (male or female)
++ Age
++ Hypertension (yes or no)
++ Heart disease (yes or no)
++ Ever married (true or false)
++ Work type (private, self-employed, other)
++ Residence type (rural or urban)
++ Average glucose level
++ BMI
++ Stroke (yes or no)
 
 ## Analysis_Sample
 + Male    2994  (59.60 %, 0-82 yrs old)
