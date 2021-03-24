@@ -81,15 +81,10 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 ## ANALYSIS
 
 ## Correlations
++ Correlation heatmap is shown below
++ Age seems highly correlated with stroke
 
-|       |  Age  | Hypertension | Heart Disease | Glucose Level |   BMI   |  Stroke  |
-| ----- | :----: | :----: | :----: | :----: | :----: | :----: |
-| Age | 1.000 | 0.276 | 0.264 | 0.238 | 0.333 | 0.245 |
-| Hypertension |  | 1.000 | 0.108 | 0.174 | 0.168 | 0.128 |
-| Heart Disease |  |   | 1.000 | 0.162 | 0.041| 0.135 |  
-| Ave. Glucose Level |   |   |   | 1.000 | 0.176 | 0.132 |
-| BMI |    |    |    |    | 1.000 | 0.042 |
-| Stroke |    |    |    |    |    | 1.000 |
+![health_data_corr_map](https://user-images.githubusercontent.com/46631208/112247501-c9f93680-8c2a-11eb-971b-51c207a9ed76.png)
 
 
 
