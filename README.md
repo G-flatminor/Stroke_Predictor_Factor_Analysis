@@ -80,11 +80,19 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 
 ## ANALYSIS
 
+## Distribution pairplot
++The figures show they potentially influence the stroke probability 
+
+![pairplot](https://user-images.githubusercontent.com/46631208/112248535-7687e800-8c2c-11eb-96eb-ac4daea18456.png)
+
 ## Correlations
 + Correlation heatmap is shown below
 + Age seems highly correlated with stroke
 
 ![correlation_heatmap](https://user-images.githubusercontent.com/46631208/112248033-a4206180-8c2b-11eb-9b27-169277efc422.PNG)
+
+## Causal relationship: Determinination of stroke predictors
++ Conducted Logistic Regression Analysis
 
 
 
