@@ -84,7 +84,8 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 + Correlation heatmap is shown below
 + Age seems highly correlated with stroke
 
-![health_data_corr_map](https://user-images.githubusercontent.com/46631208/112247501-c9f93680-8c2a-11eb-971b-51c207a9ed76.png)
+![correlation_heatmap](https://user-images.githubusercontent.com/46631208/112248033-a4206180-8c2b-11eb-9b27-169277efc422.PNG)
+
 
 
 
