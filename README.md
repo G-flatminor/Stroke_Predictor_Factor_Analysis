@@ -101,8 +101,8 @@ LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
                    random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
                    warm_start=False)
 
-correct answer rate (train):  0.9551752241238793
-correct answer rate (test):  0.960081466395112
+- correct answer rate (train):  0.9551752241238793
+- correct answer rate (test):  0.960081466395112
 
 ![logistic_reg_coeffic](https://user-images.githubusercontent.com/46631208/112405083-fd4dcb00-8ce7-11eb-99e7-1d4b18513a7e.PNG)
 
