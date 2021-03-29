@@ -107,13 +107,17 @@ LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
 - Correct answer rate (test):  0.960081466395112
 - Given factors highly predict log (odds) of stroke occurence probablity
 
-![logistic_reg_coeffic](https://user-images.githubusercontent.com/46631208/112405083-fd4dcb00-8ce7-11eb-99e7-1d4b18513a7e.PNG)
+![Logistic_reg_result](https://user-images.githubusercontent.com/46631208/112910381-3d82c400-90c1-11eb-8188-2453d4896502.PNG)
 
-![odds_ratio](https://user-images.githubusercontent.com/46631208/112405143-15bde580-8ce8-11eb-89ce-3957f8ede39e.PNG)
 
--Regression coefficients table shows the hypertension is the highest predictor of stroke.
--Next highest predictor is the heart disease.
+-Regression coefficients table shows statistically significant predictors of stroke occurrence probability:
+  + Hypertension (beta = 0.535, p <.05)
+  + Heart disease (beta = 0.401, p <.05)
+  + Age (beta = 0.068, p <.05)
+  + Average glucose level (beta = 0.005, p <.05)
 
+-These factors are accountable for 20% of stroke variance.
+-Further research (more predictor variables) and analysis (e.g., secondary causal relationships) are needed for a better understanding of causes of stroke.
 
 
 
