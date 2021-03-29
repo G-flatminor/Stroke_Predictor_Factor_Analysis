@@ -87,9 +87,11 @@ Data downloaded from  https://www.kaggle.com/fedesoriano/stroke-prediction-datas
 
 ## Correlations
 + Correlation heatmap is shown below
-+ Age seems highly correlated with stroke
 
 ![correlation_heatmap](https://user-images.githubusercontent.com/46631208/112248033-a4206180-8c2b-11eb-9b27-169277efc422.PNG)
+
++ Age seems highly correlated with stroke
+
 
 ## Causal relationship: Determinination of stroke predictors
 + Conducted Logistic Regression Analysis
@@ -101,12 +103,16 @@ LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
                    random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
                    warm_start=False)
 
-- correct answer rate (train):  0.9551752241238793
-- correct answer rate (test):  0.960081466395112
+- Correct answer rate (train):  0.9551752241238793
+- Correct answer rate (test):  0.960081466395112
+- Given factors highly predict log (odds) of stroke occurence probablity
 
 ![logistic_reg_coeffic](https://user-images.githubusercontent.com/46631208/112405083-fd4dcb00-8ce7-11eb-99e7-1d4b18513a7e.PNG)
 
 ![odds_ratio](https://user-images.githubusercontent.com/46631208/112405143-15bde580-8ce8-11eb-89ce-3957f8ede39e.PNG)
+
+-Regression coefficients table shows the hypertension is the highest predictor of stroke.
+-Next highest predictor is the heart disease.
 
 
 
